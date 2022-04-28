@@ -1,0 +1,9 @@
+{
+  "name": "Load template",
+  "id": "1100903757015050560",
+  "api": "1.0.0",
+  "main": "code.ts",
+  "editorType": [
+    "figma"
+  ]
+}
