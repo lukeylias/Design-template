@@ -1,8 +1,8 @@
 {
-  "name": "Load template",
+  "name": "Design template",
   "id": "1100903757015050560",
   "api": "1.0.0",
-  "main": "code.ts",
+  "main": "code.js",
   "editorType": [
     "figma"
   ]
